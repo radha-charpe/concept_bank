@@ -387,3 +387,20 @@ One-Line Caption (Write below diagram)
 
 
 Linux is inspired by UNIX design principles but developed independently as an open-source operating system.
+
+CLI is faster than GUI. 🚀
+
+Reason:
+
+CLI executes commands directly without loading graphics, icons, or windows.
+
+GUI needs to render visuals, respond to mouse clicks, and manage more system resources, which makes it slower for many tasks.
+
+Example:
+
+Typing rm -rf /folder in CLI deletes a folder instantly.
+
+Doing the same in GUI requires navigating folders, selecting files, and confirming dialogs, which takes more time.
+
+In short: CLI = speed & efficiency, GUI = ease of use & friendliness.
+
