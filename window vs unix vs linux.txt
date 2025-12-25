@@ -103,7 +103,7 @@ Enterprise Servers
 
 means
 
-Got it, Radha 😊
+
 Here’s the meaning of “Enterprise Servers” in simple words:
 
 Enterprise Servers – Meaning
@@ -384,5 +384,6 @@ Relationship Diagram (Very Important)
                  (UNIX-like, not UNIX)
 
 One-Line Caption (Write below diagram)
+
 
 Linux is inspired by UNIX design principles but developed independently as an open-source operating system.
